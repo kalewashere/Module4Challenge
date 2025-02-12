@@ -31,7 +31,7 @@ namespace Module4Challenge // namespace is name of the space the project is in
                 "Knock, knock!\n Who's there?\n Not me, nice try debt collectors!\n", 
                 "Locked in? The only thing I'm locked into is this interest rate! 9% APR? What is this, the '20s?\n", 
                 "Your brakes are running out?? You better run after them, you need those!\n", 
-                "Hi hungry I'm Kevin, get a job.\n"
+                "Hi hungry I'm Kevin, get a job."
                 };
             // dad jokes above, format is easier to read and \n allows output to be more readable as well
                 
